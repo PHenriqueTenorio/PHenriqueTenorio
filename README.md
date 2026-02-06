@@ -2,7 +2,7 @@
 
 **`Data Analyst`**
 
-Me chamo Paulo Henrique Tenorio, tenho 22 anos e sou de São Paulo Capital. Concluí o curso de Análose e Desenvolvimento de Sistemas No Senac. Sou apaixonado por tecnologia e através desse repositório compartilho meus projetos de estudos como portifólio".
+Me chamo Paulo Henrique Tenorio, tenho 22 anos. Concluí o curso de Análise e Desenvolvimento de Sistemas No Senac, sou apaixonado por tecnologia e através desse repositório compartilho meus projetos de estudos como portifólio".
 
 <p align="left">
   
