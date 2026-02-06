@@ -64,7 +64,7 @@ Me chamo Paulo Henrique Tenorio, tenho 22 anos e sou de São Paulo Capital. Conc
     title="DATABRICKS" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://az-icons.com/icon/azure-databricks"
+    src="https://github.com/user-attachments/assets/b13ebc3b-0735-4112-a56c-4a335bd3560e"
 />
 
 
