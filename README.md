@@ -32,7 +32,7 @@ Me chamo Paulo Henrique Tenorio, tenho 22 anos e sou de São Paulo Capital. Conc
     title="POWER BI"
     width="30px" 
     style="padding-right: 10px;" 
-    src= https://icons8.com.br/icon/qYfwpsRXEcpc/power-bi
+   src= "https://github.com/user-attachments/assets/bf34fbe9-cc25-4f7a-a50b-0ffb5f626aa9"
 />
 <img 
     align="left" 
@@ -40,7 +40,7 @@ Me chamo Paulo Henrique Tenorio, tenho 22 anos e sou de São Paulo Capital. Conc
     title="EXCEL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src=https://pt.wikipedia.org/wiki/Ficheiro:Microsoft_Office_Excel_%282019%E2%80%932025%29.svg
+    src="https://github.com/user-attachments/assets/3663feb9-86b4-410f-a6bf-a60ed109c24d" 
 />
 <img 
     align="left" 
